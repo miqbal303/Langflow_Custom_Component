@@ -1,4 +1,4 @@
-ImageUploadComponent to Langflow, allowing users to upload images and encode them in Base64 format.
+ImageUpload to Langflow, allowing users to upload images and encode them in Base64 format.
 
 Key Features:
 ✅ Supports image formats: JPG, JPEG, PNG, BMP
