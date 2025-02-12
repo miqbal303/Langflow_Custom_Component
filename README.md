@@ -1,0 +1,2 @@
+# Langflow_Custom_Component
+This repo contains Custom_Langflow_Component
